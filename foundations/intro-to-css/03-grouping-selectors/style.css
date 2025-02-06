@@ -1,0 +1,13 @@
+.buttonClick {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.buttonClick.first {
+    background-color: rgb(61, 148, 189);
+    color: white;
+}
+
+.buttonClick.second {
+    background-color: rgb(186, 73, 186);
+}
